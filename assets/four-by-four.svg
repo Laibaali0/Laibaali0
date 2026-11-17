@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">Four by Four: play a little number game</title>
+<desc id="desc">An off-white card with a colorful four by four board and an invitation to play a number puzzle.</desc>
+<rect width="1000" height="360" rx="18" fill="#f5f2ea"/>
+<rect x="1" y="1" width="998" height="358" rx="17" stroke="#dadbd1" stroke-width="2" fill="none"/>
+<text x="46" y="64" fill="#b45f4c" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">A LITTLE GAME BREAK</text>
+<text x="43" y="147" fill="#25332b" font-family="Georgia,serif" font-size="66" letter-spacing="-3">four by four.</text>
+<text x="46" y="188" fill="#657064" font-family="Arial,sans-serif" font-size="21">Slide. Merge. Make some room.</text>
+<rect x="45" y="232" width="228" height="60" rx="9" fill="#273a30"/>
+<text x="77" y="270" fill="#ffffff" font-family="Arial,sans-serif" font-size="24" font-weight="700">play a round  ↗</text>
+<text x="46" y="330" fill="#8c9188" font-family="Arial,sans-serif" font-size="16">ARROW KEYS / SWIPE  ·  NO LOGIN REQUIRED</text>
+<rect x="643" y="19" width="329" height="322" rx="17" fill="#dddbd1"/>
+<rect x="657" y="35" width="66" height="62" rx="7" fill="#ebe8dc"/>
+<rect x="734" y="35" width="66" height="62" rx="7" fill="#f8f6ef"/>
+<text x="767" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#263329">2</text>
+<rect x="811" y="35" width="66" height="62" rx="7" fill="#e8e8cf"/>
+<text x="844" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#263329">4</text>
+<rect x="888" y="35" width="66" height="62" rx="7" fill="#ebe8dc"/>
+<rect x="657" y="108" width="66" height="62" rx="7" fill="#f8f6ef"/>
+<text x="690" y="149" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#263329">2</text>
+<rect x="734" y="108" width="66" height="62" rx="7" fill="#e8e8cf"/>
+<text x="767" y="149" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#263329">4</text>
+<rect x="811" y="108" width="66" height="62" rx="7" fill="#e8b88b"/>
+<text x="844" y="149" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#263329">8</text>
+<rect x="888" y="108" width="66" height="62" rx="7" fill="#ebe8dc"/>
+<rect x="657" y="181" width="66" height="62" rx="7" fill="#ebe8dc"/>
+<rect x="734" y="181" width="66" height="62" rx="7" fill="#e49e72"/>
+<text x="767" y="222" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#263329">16</text>
+<rect x="811" y="181" width="66" height="62" rx="7" fill="#d67c65"/>
+<text x="844" y="222" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">32</text>
+<rect x="888" y="181" width="66" height="62" rx="7" fill="#ebe8dc"/>
+<rect x="657" y="254" width="66" height="62" rx="7" fill="#ebe8dc"/>
+<rect x="734" y="254" width="66" height="62" rx="7" fill="#ebe8dc"/>
+<rect x="811" y="254" width="66" height="62" rx="7" fill="#ebe8dc"/>
+<rect x="888" y="254" width="66" height="62" rx="7" fill="#ebe8dc"/>
+</svg>
