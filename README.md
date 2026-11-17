@@ -12,7 +12,7 @@
 
 I like learning how complicated things work and finding ways to make them simpler. These days I'm working on native mobile experiences at **Shopify**, while exploring the engineering side of machine learning: search, evaluation, agents and efficient inference.
 
-I care about the details that are easy to miss — a form that keeps its state, a test that catches the weird case, or an AI answer that knows when its source is out of date.
+I care about the details that are easy to miss, a form that keeps its state, a test that catches the weird case, or an AI answer that knows when its source is out of date.
 
 | What I'm doing | What I keep exploring |
 | --- | --- |
